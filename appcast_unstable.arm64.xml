@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>HandBrake arm64 Appcast</title>
+        <link>https://handbrake.fr/appcast.arm64.xml</link>
+        <description>HandBrake 1.5.1</description>
+        <language>en</language>
+        <pubDate>Mon January 10 21:06:51 2022</pubDate>
+        <lastBuildDate>Mon January 10 21:06:51 2022</lastBuildDate>
+        <item>
+            <title>HandBrake 1.5.1 Released</title>
+            <sparkle:releaseNotesLink>https://handbrake.fr/appcast/stable.html</sparkle:releaseNotesLink>
+            <pubDate>Mon January 10 21:06:51 2022</pubDate>
+            <enclosure
+                sparkle:version="2022011000"
+                sparkle:shortVersionString="1.5.1"
+                url="https://handbrake.fr/rotation.php?file=HandBrake-1.5.1.dmg&amp;update=true"
+                length="37655632"
+                type="application/octet-stream"
+                sparkle:dsaSignature="MCwCFE+4dzuPzseT1FbVqW2VspFjz5KtAhRfkIhNlfY4FOTd0wSp/S4ZKKwQWQ==" />
+            <sparkle:minimumSystemVersion>10.13.0</sparkle:minimumSystemVersion>
+            <windows>https://handbrake.fr/rotation.php?file=HandBrake-1.5.1-arm64-Win_GUI.exe&amp;update=true</windows>
+            <windowsHash>jMJA6fZxiEoDwyq1+vzJ8oRxtGu0qVwiieCUk7r9vjNqEAboqRVC4gXsz3QM7HqCbdB7bH04AIch7Hd4rdtEihohVz9NY1d2Gvkas3zvSBSGlwFrReg0+6XAzXecqgyrL24Y+kR+AEwwTHgWfjh1DjRTNYZr89VbxVYEu/f6GiA=</windowsHash>
+        </item>
+    </channel>
+</rss>
